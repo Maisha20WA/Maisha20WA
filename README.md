@@ -54,7 +54,7 @@ Workplace meal-ordering application for employees and administrators.
 
 **Design**
 
-Figma · Adobe Illustrator · Adobe Photoshop
+Figma · In Design · Unity Game Engine
 
 **Development**
 
