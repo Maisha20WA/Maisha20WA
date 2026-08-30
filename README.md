@@ -58,7 +58,7 @@ Figma · In Design · Unity Game Engine
 
 **Development**
 
-HTML · CSS · JavaScript · React · Next.js · TypeScript
+Basic knowledge of HTML · CSS · JavaScript · React · Next.js · TypeScript
 
 **Game Development**
 
